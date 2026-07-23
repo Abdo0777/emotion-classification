@@ -123,8 +123,3 @@ emotion-classification-attention/
 
 ---
 
-## ✨ Future Improvements
-
-- Multi-language support
-- Display attention heatmaps directly inside the app
-- Deploy to HuggingFace Spaces instead of local-only hosting
