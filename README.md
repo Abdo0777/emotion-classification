@@ -1,4 +1,4 @@
-# 💜 Emotion Classification with Attention
+# 💜 Emotion Classification 
 
 A multi-class text classification project that identifies **6 core emotions** — joy, sadness, anger, fear, surprise, and disgust — using sequence models with attention mechanisms, benchmarked against a fine-tuned Transformer.
 
